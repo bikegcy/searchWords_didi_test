@@ -6,3 +6,4 @@ To run the program, execute
 
 `sh runme.sh`
 
+Note: Please run under **Python3** environment
